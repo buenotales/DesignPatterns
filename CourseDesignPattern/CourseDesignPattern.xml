@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CourseDesignPattern</name>
+    </assembly>
+    <members>
+        <member name="T:CourseDesignPattern.ITax">
+            <summary>
+            Interface Tax
+            </summary>
+        </member>
+        <member name="T:CourseDesignPattern.TaxIss">
+            <summary>
+            Classe deteste
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,13 @@
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\obj\Debug\netcoreapp3.1\CourseDesignPattern.csprojAssemblyReference.cache
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\obj\Debug\netcoreapp3.1\CourseDesignPattern.AssemblyInfoInputs.cache
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\obj\Debug\netcoreapp3.1\CourseDesignPattern.AssemblyInfo.cs
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\obj\Debug\netcoreapp3.1\CourseDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\bin\Debug\netcoreapp3.1\CourseDesignPattern.exe
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\bin\Debug\netcoreapp3.1\CourseDesignPattern.deps.json
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\bin\Debug\netcoreapp3.1\CourseDesignPattern.runtimeconfig.json
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\bin\Debug\netcoreapp3.1\CourseDesignPattern.runtimeconfig.dev.json
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\bin\Debug\netcoreapp3.1\CourseDesignPattern.dll
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\bin\Debug\netcoreapp3.1\CourseDesignPattern.pdb
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\obj\Debug\netcoreapp3.1\CourseDesignPattern.dll
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\obj\Debug\netcoreapp3.1\CourseDesignPattern.pdb
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\obj\Debug\netcoreapp3.1\CourseDesignPattern.genruntimeconfig.cache

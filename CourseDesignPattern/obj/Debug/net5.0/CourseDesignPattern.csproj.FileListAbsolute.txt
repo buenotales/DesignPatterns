@@ -1,0 +1,16 @@
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\bin\Debug\net5.0\CourseDesignPattern.exe
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\bin\Debug\net5.0\CourseDesignPattern.deps.json
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\bin\Debug\net5.0\CourseDesignPattern.runtimeconfig.json
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\bin\Debug\net5.0\CourseDesignPattern.runtimeconfig.dev.json
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\bin\Debug\net5.0\CourseDesignPattern.dll
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\bin\Debug\net5.0\ref\CourseDesignPattern.dll
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\bin\Debug\net5.0\CourseDesignPattern.pdb
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\obj\Debug\net5.0\CourseDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\obj\Debug\net5.0\CourseDesignPattern.AssemblyInfoInputs.cache
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\obj\Debug\net5.0\CourseDesignPattern.AssemblyInfo.cs
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\obj\Debug\net5.0\CourseDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\obj\Debug\net5.0\CourseDesignPattern.dll
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\obj\Debug\net5.0\ref\CourseDesignPattern.dll
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\obj\Debug\net5.0\CourseDesignPattern.pdb
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\obj\Debug\net5.0\CourseDesignPattern.genruntimeconfig.cache
+C:\Users\tales.rodrigues\source\repos\CourseDesignPattern\CourseDesignPattern\bin\Debug\net5.0\CourseDesignPattern.xml
